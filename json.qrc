@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/json">
+        <file>recevier.ico</file>
+        <file>sender.ico</file>
+        <file>json.txt</file>
+    </qresource>
+</RCC>
